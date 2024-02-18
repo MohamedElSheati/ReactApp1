@@ -1,0 +1,55 @@
+*{
+    color:#fff;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.active {
+    background-color: #1ABC9C;
+
+}
+
+.navbar,
+.copy {
+    background-color: #1A252F;
+}
+.social{
+    border:2px solid #fff;
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+}
+.contain{
+    background-color:#2C3E50;
+}
+
+header , .about{
+    background-color: #1ABC9C;
+}
+.line{
+    width:170px;
+    height:4px;
+    background-color: #fff;
+}
+.layer{
+    background-color: #1ABC9C;
+    cursor: pointer;
+    transition: all 0.5s;
+    opacity: 0;
+}
+
+ .layer:hover{
+    opacity: 1;
+}
+.send{
+    background-color: #1ABC9C;
+}
