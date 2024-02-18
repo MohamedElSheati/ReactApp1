@@ -21,7 +21,7 @@ function App(){
     ]
   }])
   return <>
-  <HashRouter router={routes}></HashRouter>
+  <RouterProvider router={routes}></RouterProvider>
   </>
 }
 
